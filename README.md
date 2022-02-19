@@ -78,7 +78,7 @@ From the above plots we can see the following trends in time of crash:
 
 ## M/L Classifier: XGBoost
 
-![conf_matrix](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/xbg_confmatx.png)
+![conf_matrix](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/DTC_confmatx.png)
 
 * Train accuracy is :72.35291207937024
 
