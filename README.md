@@ -1,7 +1,7 @@
 # Identifying Opportunities To Improve Roadway Safety In Chicago
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/dicchyant84/Chicago-car-crash-classification-using-XGBoost-classifier/blob/main/Graphs/Chicago.jpg">
+  <img width="800" height="400" src="https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/Chicago.jpg">
 </p> 
 
 ## Business Case
@@ -18,13 +18,10 @@ Firstly, we will do some data exploration to answer the following three problem 
 
 Secondly, we will create a ML classifier to categorize accidents in four main cateogories:
 
-**1. Injury & Damages over 1,500 dollars**
-
-**2. Injury & Damages under 1,500 dollars**
-
-**3. No Injury & Damages over 1,500 dollars**
-
-**4. No Injury & Damages under 1,500 dollars**
+1. Injury & Damages over 1,500 dollars**
+2. Injury & Damages under 1,500 dollars**
+3. No Injury & Damages over 1,500 dollars**
+4. No Injury & Damages under 1,500 dollars**
 
 Using these four classes, we will predict what action, event or conditions are most likely to lead to an injury and/or damages in either of the four classes.
 
@@ -32,7 +29,7 @@ Using these four classes, we will predict what action, event or conditions are m
 
 ## EDA 1: Identify high-density areas of car crash in Chicago
 
-![Street_map](https://github.com/dicchyant84/Chicago-car-crash-classification-using-XGBoost-classifier/blob/main/Graphs/street_map.png)
+![Street_map](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/street_map.png)
 
 From the map above you can see there is a high density of car crashes in the downtown area of Chicago. It is also mostly red, which means that most of the crashes in that area are caused due to intent or driver error. However, we can also see blue plots spread all across the map, which suggests that there are good amount of crashes that are caused unintentionally or have an opportunity for improvement. Let's dive into EDA 2 and 3 to investigate this.
 
@@ -45,7 +42,7 @@ In summary,
 
 ## EDA 2: Analyze control failures to identify opportunities for improvement
 
-![Predictors](https://github.com/dicchyant84/Chicago-car-crash-classification-using-XGBoost-classifier/blob/main/Graphs/predictor_plots.png)
+![Predictors](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/predictor_plots.png)
 
 From the above plots we can make out the following deduction:
 
@@ -59,7 +56,7 @@ From the above plots we can make out the following deduction:
 
 ## EDA 3: Check for trends in the time of crash to allocate resources appropriately
 
-![Time_of_crash](https://github.com/dicchyant84/Chicago-car-crash-classification-using-XGBoost-classifier/blob/main/Graphs/time_of_crash.png)
+![Time_of_crash](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/time_of_crash.png)
 
 From the above plots we can see the following trends in time of crash:
     
@@ -81,7 +78,7 @@ From the above plots we can see the following trends in time of crash:
 
 ## M/L Classifier: XGBoost
 
-![conf_matrix](https://github.com/dicchyant84/Accident-classification-using-XGBoost-for-Chicago-Car-Crash-Data/blob/main/Graphs/xbg_confmatx.png)
+![conf_matrix](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/xbg_confmatx.png)
 
 * Train accuracy is :72.35291207937024
 
