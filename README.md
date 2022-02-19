@@ -27,7 +27,7 @@ Using these four classes, we will predict what action, event or conditions are m
 
 --------------------------------------------------------------------------------------------------------
 
-## EDA 1: Identify high-density areas of car crash in Chicago
+## 1. Identify high-density areas of car crash in Chicago
 
 ![Street_map](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/street_map.png)
 
@@ -40,7 +40,7 @@ In summary,
 
 --------------------------------------------------------------------------------------------------------
 
-## EDA 2: Analyze control failures to identify opportunities for improvement
+## 2. Analyze control failures to identify opportunities for improvement
 
 ![Predictors](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/predictor_plots.png)
 
@@ -54,7 +54,7 @@ From the above plots we can make out the following deduction:
 
 --------------------------------------------------------------------------------------------------------
 
-## EDA 3: Check for trends in the time of crash to allocate resources appropriately
+## 3. Check for trends in the time of crash to allocate resources appropriately
 
 ![Time_of_crash](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/time_of_crash.png)
 
