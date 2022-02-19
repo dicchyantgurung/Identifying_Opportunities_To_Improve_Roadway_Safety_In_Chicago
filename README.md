@@ -1,4 +1,4 @@
-# Classification of car crashes in Chicago using XGBoost
+# Identifying Opportunities To Improve Roadway Safety In Chicago
 
 <p align="center">
   <img width="800" height="400" src="https://github.com/dicchyant84/Chicago-car-crash-classification-using-XGBoost-classifier/blob/main/Graphs/Chicago.jpg">
