@@ -18,10 +18,10 @@ Firstly, we will do some data exploration to answer the following three problem 
 
 Secondly, we will create a ML classifier to categorize accidents in four main cateogories:
 
-1. Injury & Damages over 1,500 dollars**
-2. Injury & Damages under 1,500 dollars**
-3. No Injury & Damages over 1,500 dollars**
-4. No Injury & Damages under 1,500 dollars**
+1. Injury & Damages over 1,500 dollars
+2. Injury & Damages under 1,500 dollars
+3. No Injury & Damages over 1,500 dollars
+4. No Injury & Damages under 1,500 dollars
 
 Using these four classes, we will predict what action, event or conditions are most likely to lead to an injury and/or damages in either of the four classes.
 
