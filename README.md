@@ -31,12 +31,7 @@ Using these four classes, we will predict what action, event or conditions are m
 
 ![Street_map](https://github.com/dicchyantgurung/Indentifying_Opportunities_To_Improve_Roadway_Safety_In_Chicago/blob/main/Images/street_map.png)
 
-From the map above you can see there is a high density of car crashes in the downtown area of Chicago. It is also mostly red, which means that most of the crashes in that area are caused due to intent or driver error. However, we can also see blue plots spread all across the map, which suggests that there are good amount of crashes that are caused unintentionally or have an opportunity for improvement. Let's dive into EDA 2 and 3 to investigate this.
-
-In summary,
-
-* Intentional car crashes concentrated in the Downtown area.
-* Even distribution of Intentional and Unintentional car crashes across the city.
+From the map above you can see there is a high density of car crashes in the downtown area of Chicago. It is also mostly blue, which means that most of the crashes in the area led to an injury and damage over $1,500. The rest of the colors are also spread all across the map, which suggests that accidents are prone all across the city. The one distinction we can make here is that the markers create bold lines in the major roadways depicting higher risk in those roads.
 
 --------------------------------------------------------------------------------------------------------
 
